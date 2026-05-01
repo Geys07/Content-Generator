@@ -9,7 +9,7 @@ async function generate() {
   document.getElementById("output").innerHTML = "Loading...";
 
   try {
-    let res = await fetch("/api/generate", {
+    let res = await fetch("/.netlify/functions/generate", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
