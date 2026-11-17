@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.sites-runtime/
+dist/vendor/transformers/*.wasm
+node_modules/.cache/

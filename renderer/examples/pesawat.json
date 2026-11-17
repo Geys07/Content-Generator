@@ -1,0 +1,47 @@
+{
+  "source": "pesawat.js",
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": 12,
+      "duration": 3.14,
+      "theme": "paper",
+      "caption": "Kalau perlu lebih banyak dilepas, bukaannya diperbesar.",
+      "words": [
+        {
+          "text": "Kalau",
+          "start": 0.2
+        },
+        {
+          "text": "perlu",
+          "start": 0.5
+        },
+        {
+          "text": "lebih",
+          "start": 0.8
+        },
+        {
+          "text": "banyak",
+          "start": 1.0
+        },
+        {
+          "text": "dilepas,",
+          "start": 1.2
+        },
+        {
+          "text": "bukaannya",
+          "start": 2.0
+        },
+        {
+          "text": "diperbesar.",
+          "start": 2.4
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "sfx": true
+  }
+}

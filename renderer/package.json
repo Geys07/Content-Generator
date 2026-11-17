@@ -1,0 +1,9 @@
+{
+  "name": "canvas-video-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render kode scene Canvas procedural menjadi MP4 secara deterministik",
+  "scripts": {"test":"node --test tests/*.test.cjs", "demo":"node scripts/render.cjs examples/pesawat.json --out output/pesawat.mp4"},
+  "dependencies": {"@napi-rs/canvas":"0.1.100"},
+  "engines":{"node": ">=20"}
+}
