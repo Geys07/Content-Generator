@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "project": "VIDEO YT",
+  "updated_at": "2026-11-21",
+  "policy": {
+    "exclude_all_previously_offered": true,
+    "exclude_same_mechanism_or_topic": true,
+    "record_all_ten_before_display": true,
+    "status_values": [
+      "ditawarkan",
+      "dipilih",
+      "selesai"
+    ]
+  },
+  "titles": [
+    {
+      "id": "VYT-20261121-01",
+      "title": "Kenapa Roda Kereta Api Bisa Berbelok Padahal Tidak Punya Setir?",
+      "category": "Teknologi transportasi",
+      "topic_key": "geometri roda kereta mengerucut mengikuti tikungan rel",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-02",
+      "title": "Kenapa Mesin Pemotong Laser Bisa Memotong Baja Tanpa Menyentuhnya?",
+      "category": "Mesin industri",
+      "topic_key": "laser pemotong baja pemanasan terfokus",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-03",
+      "title": "Bagaimana Terowongan Dibangun di Bawah Laut Tanpa Dipenuhi Air?",
+      "category": "Rekayasa ekstrem",
+      "topic_key": "terowongan tabung terbenam bawah laut",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-04",
+      "title": "Kenapa Tetesan Air Bisa Mengambang di Atas Wajan yang Sangat Panas?",
+      "category": "Fenomena fisika",
+      "topic_key": "efek Leidenfrost lapisan uap",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-05",
+      "title": "Kenapa Sayap Pesawat Bisa Melengkung Saat Terbang Tanpa Patah?",
+      "category": "Teknologi pesawat",
+      "topic_key": "fleksibilitas struktur sayap pesawat",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-06",
+      "title": "Kenapa Mobil Bisa Berbelok Padahal Roda Kiri dan Kanan Berputar Berbeda?",
+      "category": "Mesin kendaraan",
+      "topic_key": "diferensial kendaraan roda penggerak",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-07",
+      "title": "Kenapa Jembatan Tacoma Narrows Bisa Runtuh Hanya Karena Angin?",
+      "category": "Investigasi kecelakaan",
+      "topic_key": "ketidakstabilan aeroelastik Tacoma Narrows",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-08",
+      "title": "Bagaimana Roket Bisa Mengarahkan Diri di Luar Angkasa Tanpa Udara?",
+      "category": "Teknologi antariksa",
+      "topic_key": "kendali orientasi roket di vakum",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-09",
+      "title": "Kenapa Lift Tidak Langsung Jatuh Saat Kabel Penggeraknya Putus?",
+      "category": "Infrastruktur",
+      "topic_key": "sistem pengaman lift rel pemandu",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-10",
+      "title": "Bagaimana Mesin MRI Bisa Melihat Bagian Dalam Tubuh Tanpa Sinar-X?",
+      "category": "Teknologi medis",
+      "topic_key": "pencitraan MRI medan magnet dan gelombang radio",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    }
+  ]
+}
