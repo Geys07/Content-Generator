@@ -102,6 +102,96 @@
       "status": "ditawarkan",
       "offered_at": "2026-11-21",
       "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B01",
+      "title": "Kenapa Mesin Cuci Bisa Memeras Pakaian Tanpa Dipanaskan?",
+      "category": "Peralatan rumah tangga",
+      "topic_key": "putaran tabung mesin cuci mendorong air keluar melalui lubang",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B02",
+      "title": "Bagaimana Kamera Polaroid Bisa Menghasilkan Foto Tanpa Printer?",
+      "category": "Fotografi",
+      "topic_key": "lapisan kimia film instan dan rol penyebar reagen",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B03",
+      "title": "Kenapa Kapal Selam Bisa Tenggelam Lalu Naik Lagi Tanpa Mengubah Berat Badannya Secara Permanen?",
+      "category": "Teknologi kelautan",
+      "topic_key": "tangki ballast mengatur massa air dan daya apung",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B04",
+      "title": "Bagaimana Jam Mekanis Tetap Menghitung Waktu Tanpa Baterai?",
+      "category": "Mekanisme presisi",
+      "topic_key": "pegas utama escapement dan osilator jam mekanis",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B05",
+      "title": "Kenapa Rem Cakram Sepeda Bisa Menghentikan Roda Hanya dengan Menekan Tuas?",
+      "category": "Transportasi",
+      "topic_key": "kaliper rem cakram mengubah tekanan menjadi gesekan",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B06",
+      "title": "Bagaimana Pintu Otomatis Bisa Tahu Ada Orang Mendekat?",
+      "category": "Sensor dan otomasi",
+      "topic_key": "sensor gerak radar pintu otomatis dan pengendali motor",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B07",
+      "title": "Kenapa Jendela Pesawat Dibuat Berlapis dan Ada Lubang Kecil di Salah Satunya?",
+      "category": "Rekayasa penerbangan",
+      "topic_key": "lubang ventilasi panel jendela pesawat dan distribusi tekanan",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B08",
+      "title": "Bagaimana Bendungan Bisa Menghasilkan Listrik dari Air yang Jatuh?",
+      "category": "Energi",
+      "topic_key": "turbin generator PLTA konversi energi potensial air",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B09",
+      "title": "Kenapa Mesin Jahit Bisa Mengunci Benang di Dalam Kain dengan Satu Jarum?",
+      "category": "Mekanisme mesin",
+      "topic_key": "jahitan lockstitch benang atas dan bobbin",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261121-B10",
+      "title": "Kenapa Es Bisa Membuat Batu Retak Meski Tidak Dipukul?",
+      "category": "Fenomena alam",
+      "topic_key": "pembekuan air dalam rekahan batu dan tekanan ekspansi",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-21",
+      "selected_at": null
     }
   ]
 }
