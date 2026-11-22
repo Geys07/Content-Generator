@@ -284,6 +284,96 @@
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
       "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C01",
+      "title": "Kenapa Eskalator Bisa Berputar Terus, tetapi Anak Tangganya Tetap Datar?",
+      "category": "Transportasi bangunan",
+      "topic_key": "rantai anak tangga eskalator roda pemandu dan rel berbeda ketinggian",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C02",
+      "title": "Bagaimana Printer 3D Membuat Benda Berongga Tanpa Cetakan?",
+      "category": "Manufaktur aditif",
+      "topic_key": "lapisan filament termoplastik pola infill dan bridging",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C03",
+      "title": "Kenapa Rem Kereta Cepat Tidak Cukup Mengandalkan Gesekan Roda?",
+      "category": "Transportasi rel",
+      "topic_key": "pengereman regeneratif dan rem mekanis kereta cepat",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C04",
+      "title": "Bagaimana Pembangkit Listrik Panas Bumi Mengubah Panas Bawah Tanah Jadi Putaran Turbin?",
+      "category": "Energi",
+      "topic_key": "fluida panas bumi uap separator turbin generator",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C05",
+      "title": "Kenapa Lampu Jalan Bisa Menyala Sendiri Saat Langit Mulai Gelap?",
+      "category": "Sensor dan otomasi",
+      "topic_key": "sensor fotosel perubahan cahaya mengendalikan saklar",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C06",
+      "title": "Bagaimana Kapal Pemecah Es Bisa Membelah Laut yang Membeku?",
+      "category": "Rekayasa kelautan",
+      "topic_key": "bentuk lambung kapal pemecah es mengangkat lalu mematahkan es",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C07",
+      "title": "Kenapa Balon Cuaca Membesar Semakin Tinggi sampai Akhirnya Pecah?",
+      "category": "Fenomena atmosfer",
+      "topic_key": "penurunan tekanan atmosfer ekspansi gas balon",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C08",
+      "title": "Bagaimana Kamera Ponsel Bisa Mengurangi Guncangan Saat Tangan Bergerak?",
+      "category": "Teknologi optik",
+      "topic_key": "stabilisasi optik kamera sensor giroskop aktuator lensa",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C09",
+      "title": "Kenapa Pipa Air Bisa Mengeluarkan Bunyi Hentakan Saat Keran Ditutup Mendadak?",
+      "category": "Fisika fluida",
+      "topic_key": "water hammer gelombang tekanan dalam pipa",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-C10",
+      "title": "Bagaimana Pesawat Bisa Mengisi Bahan Bakar di Udara Tanpa Mendarat?",
+      "category": "Teknologi penerbangan",
+      "topic_key": "sistem pengisian bahan bakar udara boom atau probe drogue",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
     }
   ]
 }
