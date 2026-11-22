@@ -575,6 +575,116 @@
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
       "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-L01",
+      "title": "Mengapa Jembatan Pejalan Kaki Hyatt Regency Runtuh Setelah Desain Sambungannya Diubah?",
+      "category": "Struktur bangunan",
+      "topic_key": "perubahan detail batang gantung dan sambungan walkway Hyatt Regency 1981",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L02",
+      "title": "Mengapa Roket Ariane 5 Gagal Saat Komputer Mengubah Angka?",
+      "category": "Antariksa",
+      "topic_key": "overflow konversi data inersial Ariane 5 penerbangan 501",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L03",
+      "title": "Bagaimana Kerusakan Lapisan Pelindung Panas Menyebabkan Hilangnya Columbia?",
+      "category": "Antariksa",
+      "topic_key": "benturan busa ke tepi sayap dan kegagalan perlindungan termal Columbia",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L04",
+      "title": "Mengapa Pesawat Aloha Airlines 243 Mengalami Kegagalan Struktur Saat Terbang?",
+      "category": "Penerbangan",
+      "topic_key": "fatigue multi-site damage sambungan fuselage Aloha Airlines 243",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L05",
+      "title": "Bagaimana Roda Kereta yang Retak Memicu Kecelakaan Eschede?",
+      "category": "Transportasi rel",
+      "topic_key": "retak kelelahan roda berban elastis ICE Eschede dan kegagalan rel",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L06",
+      "title": "Mengapa Anjungan Minyak Sleipner A Tenggelam Sebelum Beroperasi?",
+      "category": "Rekayasa lepas pantai",
+      "topic_key": "kesalahan analisis gaya geser dinding sel beton Sleipner A 1991",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L07",
+      "title": "Bagaimana Gangguan Perangkat Lunak Memperluas Pemadaman Listrik Amerika Utara 2003?",
+      "category": "Jaringan listrik",
+      "topic_key": "alarm monitoring gagal dan cascade blackout North America 2003",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L08",
+      "title": "Mengapa Jembatan Pejalan Kaki FIU Runtuh Sebelum Selesai Dibangun?",
+      "category": "Rekayasa jembatan",
+      "topic_key": "retakan dan salah penilaian kapasitas sambungan diagonal FIU bridge 2018",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L09",
+      "title": "Mengapa Teleskop Hubble Mengirim Gambar Buram Meski Cerminnya Dipoles Sangat Presisi?",
+      "category": "Teknologi optik",
+      "topic_key": "kesalahan kalibrasi null corrector menyebabkan spherical aberration Hubble",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261122-L10",
+      "title": "Bagaimana Kapal Herald of Free Enterprise Kehilangan Stabilitas Setelah Berlayar?",
+      "category": "Rekayasa kapal",
+      "topic_key": "pintu haluan terbuka masuknya air ke dek kendaraan dan kehilangan stabilitas kapal feri",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "format": "dokumenter panjang",
+      "series": "Investigasi Teknis"
     }
   ]
 }
