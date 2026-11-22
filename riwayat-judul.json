@@ -382,7 +382,9 @@
       "topic_key": "sensor suhu magnetik dan perubahan suhu dasar panci",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D02",
@@ -391,7 +393,9 @@
       "topic_key": "pompa piston katup satu arah dan nozzle atomisasi",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D03",
@@ -400,7 +404,9 @@
       "topic_key": "bola kecil pada ujung pulpen mengatur perpindahan tinta",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D04",
@@ -409,7 +415,9 @@
       "topic_key": "pelampung dan katup pengisi tangki kloset",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D05",
@@ -418,7 +426,9 @@
       "topic_key": "gearbox reduksi dan engkol osilasi kipas",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D06",
@@ -427,7 +437,9 @@
       "topic_key": "slider resleting menyatukan gigi yang saling mengait",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D07",
@@ -436,7 +448,9 @@
       "topic_key": "LED inframerah dan kode sinyal remote televisi",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D08",
@@ -445,7 +459,9 @@
       "topic_key": "penekan staples dan landasan pembentuk kaki staples",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D09",
@@ -454,13 +470,107 @@
       "topic_key": "ruang hampa dan permukaan reflektif mengurangi perpindahan panas",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
-      "selected_at": null
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
     },
     {
       "id": "VYT-20261122-D10",
       "title": "Kenapa Payung Otomatis Bisa Terbuka Seketika Saat Tombol Ditekan?",
       "category": "Perlengkapan harian",
       "topic_key": "pegas terkunci dan mekanisme pelepas payung otomatis",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null,
+      "review_status": "ditolak_pengguna",
+      "review_reason": "Pengguna menyatakan topik/mekanisme sudah pernah dibahas; jangan ditawarkan lagi"
+    },
+    {
+      "id": "VYT-20261122-E01",
+      "title": "Kenapa Gunting Kuku Bisa Memotong Kuku Keras dengan Tekanan Jari Ringan?",
+      "category": "Barang sehari-hari",
+      "topic_key": "tuas majemuk gunting kuku memperbesar gaya pada rahang pemotong",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E02",
+      "title": "Kenapa Korek Api Kayu Baru Menyala Setelah Digesek pada Sisi Kotaknya?",
+      "category": "Barang sehari-hari",
+      "topic_key": "gesekan pemantik korek api keselamatan memicu reaksi kepala korek",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E03",
+      "title": "Bagaimana Timbangan Badan Digital Mengukur Berat Tanpa Pegas yang Terlihat?",
+      "category": "Peralatan rumah",
+      "topic_key": "load cell strain gauge deformasi elastis dan jembatan Wheatstone",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E04",
+      "title": "Kenapa Selotip Bisa Menempel Kuat tetapi Dapat Dilepas Tanpa Dipanaskan?",
+      "category": "Perlengkapan harian",
+      "topic_key": "perekat sensitif tekanan viskoelastis membasahi permukaan",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E05",
+      "title": "Kenapa Layar HP Bisa Mengenali Sentuhan Jari tetapi Tidak Selalu Sarung Tangan?",
+      "category": "Teknologi layar",
+      "topic_key": "perubahan kapasitansi elektroda layar sentuh oleh jari",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E06",
+      "title": "Kenapa Kacamata Fotokromik Menggelap Saat Terkena Sinar Matahari?",
+      "category": "Optik sehari-hari",
+      "topic_key": "molekul fotokromik berubah struktur akibat ultraviolet",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E07",
+      "title": "Kenapa Penghapus Pensil Bisa Mengangkat Grafit dari Kertas?",
+      "category": "Alat tulis",
+      "topic_key": "adhesi grafit pada elastomer penghapus dan abrasi ringan",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E08",
+      "title": "Bagaimana Kunci Pintu Silinder Mengenali Anak Kunci yang Tepat?",
+      "category": "Perlengkapan rumah",
+      "topic_key": "pin tumbler sejajar pada shear line saat anak kunci cocok",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E09",
+      "title": "Kenapa Popok Sekali Pakai Bisa Menyerap Banyak Cairan Tanpa Langsung Bocor?",
+      "category": "Material sehari-hari",
+      "topic_key": "polimer superabsorben mengembang dan mengikat air dalam jaringan",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-E10",
+      "title": "Kenapa Kertas Struk Belanja Bisa Muncul Tulisan Tanpa Tinta?",
+      "category": "Teknologi cetak",
+      "topic_key": "kepala cetak termal mengaktifkan lapisan pewarna sensitif panas",
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
       "selected_at": null
