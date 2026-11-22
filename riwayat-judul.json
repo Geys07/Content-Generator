@@ -374,6 +374,96 @@
       "status": "ditawarkan",
       "offered_at": "2026-11-22",
       "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D01",
+      "title": "Kenapa Rice Cooker Bisa Berpindah dari Memasak ke Menghangatkan Sendiri?",
+      "category": "Dapur",
+      "topic_key": "sensor suhu magnetik dan perubahan suhu dasar panci",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D02",
+      "title": "Kenapa Botol Semprot Bisa Mengubah Cairan Jadi Kabut Halus?",
+      "category": "Peralatan rumah",
+      "topic_key": "pompa piston katup satu arah dan nozzle atomisasi",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D03",
+      "title": "Kenapa Pulpen Bisa Mengeluarkan Tinta Tanpa Bocor Terus?",
+      "category": "Alat tulis",
+      "topic_key": "bola kecil pada ujung pulpen mengatur perpindahan tinta",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D04",
+      "title": "Kenapa Tangki Kloset Berhenti Mengisi Air Saat Sudah Penuh?",
+      "category": "Sanitasi",
+      "topic_key": "pelampung dan katup pengisi tangki kloset",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D05",
+      "title": "Kenapa Kipas Angin Bisa Menoleh Kiri-Kanan Tanpa Motor Kedua?",
+      "category": "Elektronik rumah",
+      "topic_key": "gearbox reduksi dan engkol osilasi kipas",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D06",
+      "title": "Kenapa Resleting Bisa Mengunci Dua Sisi Kain Hanya dengan Ditarik?",
+      "category": "Barang sehari-hari",
+      "topic_key": "slider resleting menyatukan gigi yang saling mengait",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D07",
+      "title": "Kenapa Remote TV Bisa Mengirim Perintah Tanpa Kabel?",
+      "category": "Elektronik rumah",
+      "topic_key": "LED inframerah dan kode sinyal remote televisi",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D08",
+      "title": "Kenapa Stapler Bisa Membengkokkan Ujung Isi Staples dengan Rapi?",
+      "category": "Peralatan kantor",
+      "topic_key": "penekan staples dan landasan pembentuk kaki staples",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D09",
+      "title": "Kenapa Termos Bisa Menjaga Minuman Panas Berjam-jam Tanpa Listrik?",
+      "category": "Peralatan minum",
+      "topic_key": "ruang hampa dan permukaan reflektif mengurangi perpindahan panas",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-D10",
+      "title": "Kenapa Payung Otomatis Bisa Terbuka Seketika Saat Tombol Ditekan?",
+      "category": "Perlengkapan harian",
+      "topic_key": "pegas terkunci dan mekanisme pelepas payung otomatis",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
     }
   ]
 }
