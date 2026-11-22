@@ -226,9 +226,10 @@
       "title": "Bagaimana Radar Cuaca Bisa Mendeteksi Hujan dari Jarak Jauh?",
       "category": "Meteorologi",
       "topic_key": "pantulan gelombang radar oleh tetes hujan dan pengukuran waktu tempuh",
-      "status": "dipilih",
+      "status": "selesai",
       "offered_at": "2026-11-22",
-      "selected_at": "2026-11-22"
+      "selected_at": "2026-11-22",
+      "completed_at": "2026-11-22"
     },
     {
       "id": "VYT-20261122-05",
