@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "VIDEO YT",
-  "updated_at": "2026-11-21",
+  "updated_at": "2026-11-22",
   "policy": {
     "exclude_all_previously_offered": true,
     "exclude_same_mechanism_or_topic": true,
@@ -192,6 +192,96 @@
       "topic_key": "pembekuan air dalam rekahan batu dan tekanan ekspansi",
       "status": "ditawarkan",
       "offered_at": "2026-11-21",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-01",
+      "title": "Kenapa Kulkas Bisa Dingin Padahal Kompresornya Justru Panas?",
+      "category": "Peralatan rumah tangga",
+      "topic_key": "siklus refrigeran kompresor kondensor katup ekspansi evaporator",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-02",
+      "title": "Bagaimana Mesin Fotokopi Memindahkan Tulisan Tanpa Menyentuh Kertas Aslinya?",
+      "category": "Teknologi perkantoran",
+      "topic_key": "muatan elektrostatis drum fotokonduktor toner dan fuser",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-03",
+      "title": "Kenapa Kapal Besar Tidak Mudah Terbalik Meski Dihantam Ombak?",
+      "category": "Rekayasa kapal",
+      "topic_key": "stabilitas kapal titik berat pusat apung momen pemulih",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-04",
+      "title": "Bagaimana Radar Cuaca Bisa Mendeteksi Hujan dari Jarak Jauh?",
+      "category": "Meteorologi",
+      "topic_key": "pantulan gelombang radar oleh tetes hujan dan pengukuran waktu tempuh",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-05",
+      "title": "Kenapa Ban Pesawat Tidak Pecah Saat Menyentuh Landasan dengan Kecepatan Tinggi?",
+      "category": "Teknologi penerbangan",
+      "topic_key": "konstruksi ban pesawat deformasi elastis dan percepatan putaran saat touchdown",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-06",
+      "title": "Bagaimana Pompa Bensin Otomatis Berhenti Saat Tangki Hampir Penuh?",
+      "category": "Teknologi SPBU",
+      "topic_key": "lubang sensor nozzle venturi perubahan tekanan memutus aliran",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-07",
+      "title": "Kenapa Gedung Pencakar Langit Sengaja Dibuat Bisa Bergoyang?",
+      "category": "Rekayasa struktur",
+      "topic_key": "kelenturan struktur gedung beban angin peredam massa",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-08",
+      "title": "Bagaimana Kabel Serat Optik Membawa Internet Menggunakan Cahaya?",
+      "category": "Telekomunikasi",
+      "topic_key": "pemantulan internal total serat optik modulasi cahaya dan deteksi",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-09",
+      "title": "Kenapa Air Bisa Naik ke Puncak Pohon Tanpa Pompa?",
+      "category": "Fenomena biologi",
+      "topic_key": "transpirasi kohesi adhesi dan tegangan air dalam xilem",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261122-10",
+      "title": "Bagaimana Mesin Pencetak Uang Memeriksa Lembaran yang Cacat?",
+      "category": "Mesin industri",
+      "topic_key": "inspeksi optik lembar uang sensor kamera dan mekanisme sortir",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-22",
       "selected_at": null
     }
   ]
