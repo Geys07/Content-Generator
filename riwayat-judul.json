@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "VIDEO YT",
-  "updated_at": "2026-11-22",
+  "updated_at": "2026-11-23",
   "policy": {
     "exclude_all_previously_offered": true,
     "exclude_same_mechanism_or_topic": true,
@@ -685,6 +685,96 @@
       "selected_at": null,
       "format": "dokumenter panjang",
       "series": "Investigasi Teknis"
+    },
+    {
+      "id": "VYT-20261123-01",
+      "title": "Kenapa Mesin ATM Bisa Mengeluarkan Uang Satu Lembar demi Satu Lembar?",
+      "category": "Perbankan",
+      "topic_key": "rol pemisah uang dan deteksi lembar ganda",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-02",
+      "title": "Kenapa Beton Bisa Mengeras Meski Terendam Air?",
+      "category": "Material konstruksi",
+      "topic_key": "hidrasi semen membentuk hidrat pengikat",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-03",
+      "title": "Bagaimana Mesin CT Scan Membuat Gambar Irisan Tubuh?",
+      "category": "Medis",
+      "topic_key": "rekonstruksi tomografi dari proyeksi sinar X berbagai sudut",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-04",
+      "title": "Kenapa Pasir di Gurun Bisa Mengeluarkan Suara Gemuruh?",
+      "category": "Fenomena alam",
+      "topic_key": "sinkronisasi gerakan butiran pasir pada longsoran bukit pasir",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-05",
+      "title": "Bagaimana Pabrik Kaca Membuat Lembaran Kaca yang Rata?",
+      "category": "Industri",
+      "topic_key": "float glass kaca cair mengapung di timah cair",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-06",
+      "title": "Kenapa Antena Parabola Berbentuk Cekung?",
+      "category": "Telekomunikasi",
+      "topic_key": "reflektor parabola memusatkan gelombang radio pada fokus",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-07",
+      "title": "Bagaimana Mesin Pengolah Air Laut Memisahkan Garam dari Air?",
+      "category": "Infrastruktur",
+      "topic_key": "osmosis balik membran semipermeabel tekanan",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-08",
+      "title": "Kenapa Baterai HP Lama-Lama Kehilangan Kapasitas?",
+      "category": "Energi",
+      "topic_key": "degradasi elektrokimia lithium ion pertumbuhan SEI",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-09",
+      "title": "Bagaimana Mesin Panen Padi Memisahkan Gabah dari Batangnya?",
+      "category": "Pertanian",
+      "topic_key": "perontokan mekanis dan pemisahan gabah dari jerami",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
+    },
+    {
+      "id": "VYT-20261123-10",
+      "title": "Kenapa Jalan Aspal Bisa Terlihat Seperti Genangan Air Saat Panas?",
+      "category": "Fisika",
+      "topic_key": "fatamorgana inferior pembiasan gradien indeks udara",
+      "status": "ditawarkan",
+      "offered_at": "2026-11-23",
+      "selected_at": null
     }
   ]
 }
